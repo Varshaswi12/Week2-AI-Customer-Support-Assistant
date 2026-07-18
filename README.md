@@ -55,7 +55,7 @@ AI-Customer-Support-Assistant/
 ### Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Varshaswi12/Week2-AI-Customer-Support-Assistant>
 ```
 
 ### Navigate to the project
